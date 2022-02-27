@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer and resolution of the States of Holland, concerning the Queenes Majesties desire to the States. Delivered to Her Majesty July the 6. by the Duke of Luneburg. Also a true relation of two ships which came from Holland, laden with ammunition, and great store of moneyes, and many commanders, who are now with His Majestie at Yorke, which landed at Holdernesse, the 4 of Iuly, 1642. Ordered to be printed and published. Jo. Browne, Cler. Parl.</title>
+            <author>United Provinces of the Netherlands.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89902</idno>
+            <idno type="STC">Wing N473</idno>
+            <idno type="STC">Thomason E154_42</idno>
+            <idno type="STC">ESTC R1775</idno>
+            <idno type="EEBO-CITATION">99860259</idno>
+            <idno type="PROQUEST">99860259</idno>
+            <idno type="VID">112376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112376)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer and resolution of the States of Holland, concerning the Queenes Majesties desire to the States. Delivered to Her Majesty July the 6. by the Duke of Luneburg. Also a true relation of two ships which came from Holland, laden with ammunition, and great store of moneyes, and many commanders, who are now with His Majestie at Yorke, which landed at Holdernesse, the 4 of Iuly, 1642. Ordered to be printed and published. Jo. Browne, Cler. Parl.</title>
+                  <author>United Provinces of the Netherlands.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Iuly, 12. London, Printed for J. H. and T. Ryder,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Friedrich, --  Herzog zu Braunschweig und Lüneburg, 1574-1648.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112376:1" rendition="simple:additions"/>
+            <p>THE ANSWER AND RESOLVTION Of the States of HOLLAND, concerning the <hi>Queenes</hi> Majeſties Deſire to the States.</p>
+            <p>Delivered to Her Maieſty <hi>July</hi> the 6. by the Duke of <hi>Luneburg.</hi>
+            </p>
+            <p>
+               <hi>ALSO</hi> A true Relation of two Ships which came from <hi>Holland,</hi> laden with Ammuniti<g ref="char:EOLhyphen"/>on, and great ſtore of Moneyes, and many Commanders, who are now with His Maieſtie at <hi>Yorke,</hi> which landed at <hi>Holderneſſe,</hi> the 4 of <hi>Iu<g ref="char:EOLhyphen"/>ly,</hi> 1642.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Ordered to be Printed and Publiſhed.</p>
+                  <closer>
+                     <signed>Jo. Browne, Cler. Parl.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Iuly,</hi> 12. LONDON, Printed for <hi>J H.</hi> and <hi>T. Ryder,</hi> 1642</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112376:2"/>
+            <head>The Anſwer and Reſolution of the States in <hi>Holland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queens Majeſty ſince her departure from the Engliſh Court and her arrivall in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> being moved with the conſideration of the manifold dangers which trouble this Kingeome, and which without ſpeedy prevention muſt of ne<g ref="char:EOLhyphen"/>ceſſity produce greater and more full of danger; we being moved with theſe and the like conſiderations, being grieved at the difference between the King and his Parliament, did moſt ſeriouſly, as one moſt tender of this Kingdome, did ex<g ref="char:EOLhyphen"/>preſſe her ſelfe unto the States of <hi>Holland,</hi> and ſeriouſly entreated from them their aſſiſtance in the Reconciliation of the King and Parliament, and withall deſi<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:112376:3"/>them that they would undertake to compoſe, and ſettle the difference which did ſo much diſtract this King<g ref="char:EOLhyphen"/>dome, and for which ſhe her ſelfe, as a maine ſharer in theſe troubles, would acknowledge the benefit received, and accept as done unto her owne perſon. This Meſſage or Deſire was willingly received by the States, and at a pub<g ref="char:EOLhyphen"/>lique Aſsembly at the Hague was open<g ref="char:EOLhyphen"/>ly read, but for the preſent they retur<g ref="char:EOLhyphen"/>ned for anſwer to her Majeſty, that her Deſires were of ſo great weight and con<g ref="char:EOLhyphen"/>ſequence, that they muſt aſſume ſome time for Anſwer, and that for the pre<g ref="char:EOLhyphen"/>ſent they could not returne any thing to her Majeſty in ſatisfaction to her de<g ref="char:EOLhyphen"/>ſires, but their promiſe of their ſervices, which ſhould ſuddainly waite upon her with their Reſolution to thoſe her Deſires.</p>
+            <p>Vpon the 2. of July there was another meeting aſsembled, and in the Audience of thoſe that were preſent, the ſenſe of
+<pb facs="tcp:112376:3"/>Majeſties Deſires was reiterated, and af<g ref="char:EOLhyphen"/>ter publication &amp; a long debate thereof among the States, they did intimate their mind and choſe ths Duke of Luneburg to preſent their Anſwer and Reſolution to her Majeſty, who with all convenien<g ref="char:EOLhyphen"/>cy and ſpeed that might be, provided himſelfe to viſit and deliver the minds of the States unto her Highneſse. The ſumme whereof he delivered unto every particular of her Deſires. To the firſt De<g ref="char:EOLhyphen"/>ſire, <hi>That it was a moſt unpleaſing Office and that it did not become any Kingdome to inter<g ref="char:EOLhyphen"/>poſe or meddle with the affayres that con<g ref="char:EOLhyphen"/>cerne another Nation, or to ſcrew or ſearch in<g ref="char:EOLhyphen"/>to the ſecrets and private occurrences that doe belong unto another State. yet they did heartily deſire a Compoſure of all differen<g ref="char:EOLhyphen"/>tes to the Honour of God, the content of his Majeſty, and the proſperity of the King<g ref="char:EOLhyphen"/>dome of England.</hi> For that they beſide the Relation which they were lately happy in by the Conjunction of their Nation,
+<pb facs="tcp:112376:4"/>with ours of England, occaſioned by the moſt happy and moſt auſpicious Marriage of the Prince of <hi>Orange</hi> his ſonne to the moſt hopefull Lady MARY Eldeſt Daughter to the King of England, they had many other obligations and in<g ref="char:EOLhyphen"/>ducement to deſire and by all meanes further as much as in them lyes the U<g ref="char:EOLhyphen"/>nion and bleſſed eſtate of His Majeſties Kingdomes.</p>
+            <p>And with all promiſed their aſsi<g ref="char:EOLhyphen"/>ſtance, ſo farre as might ſtand with their Honour to uſe all poſsible meanes of reconcilement between His Majeſty and His Parliament.</p>
+            <p>And alſo informed the <hi>Queens</hi> Majeſty that they vvould diſpatch a ſuddaine Ambaſſage to the King and Parliament, by which Letters they would move both King and Parliament to a reconcilement, and intimate unto them the danger of Civill difference betweene the King and Subject, not doubting but they ſhould obtaine ſo much reſpect from both, as
+<pb facs="tcp:112376:4"/>not to deny their deſires, which were onely grounded upon their faithfull de<g ref="char:EOLhyphen"/>ſires of peace, and their true intentions to ſerve His Majeſty and Parliament. To her Majeſties ſecond Deſire, to furniſh His Majeſty with ſtrength againſt the oppoſition of theſe preſent times. His reply in the name of all the States was, That what power or forces ſoever they were maſters of, they would wiſh no better imployd then to ſerve the King of England, and to aſsiſt him againſt the violence and invaſion of any forraigne enemy. But for any forces againſt His owne Subjects, they muſt deſire more deliberation. For they did ſo much ten<g ref="char:EOLhyphen"/>der His Majeſties Honour and advance<g ref="char:EOLhyphen"/>ment, and the proſperity of His King<g ref="char:EOLhyphen"/>domes, that they ſhall not dare to doe any thing which may by any meanes tend to the diſhonour of the King, or the diſquiet of His Subjects, or King<g ref="char:EOLhyphen"/>dome, And that they did fore-ſee that if thoſe diſtracted proceedings of this
+<pb facs="tcp:112376:5"/>Kingdome were not in time prohibited and that ruine and deſtruction would be the conſequence and effect of private diſſentions. This was the anſwer deli<g ref="char:EOLhyphen"/>vered by the Duke of Luneburg to her Majeſty concerning her Deſires for the preſent, but ſince that time it is gene<g ref="char:EOLhyphen"/>rally reported that two ſhips very well laden with all Warlike proviſion were ſent over from the States with two hundred thouſand pound to His Maje<g ref="char:EOLhyphen"/>ſty in money, in which ſhips were alſo almoſt two hundred Ancient Comman<g ref="char:EOLhyphen"/>ders, which for this many yeares had ſerved under the States of Holland, all which both ſhips, moneyes, ammuniti<g ref="char:EOLhyphen"/>on, and Commanders were landed at Holderneſſe the 4. of July and are now with His Majeſty at <hi>Yorke.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
